@@ -1,0 +1,31 @@
+.Maincontainer {
+  height: 70px;
+  background-color: black;
+  display: flex;
+  box-shadow: 0 0 10px red;
+}
+.title {
+  width: 40%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.options {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  margin-right: 50px;
+}
+
+#heading {
+  margin: 0;
+}
