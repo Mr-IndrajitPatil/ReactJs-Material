@@ -1,0 +1,15 @@
+.Container {
+  width: 35%;
+  height: 200px;
+  text-align: center;
+  box-shadow: 0 0 15px red;
+  padding: 50px;
+  margin: 50px auto;
+}
+
+button {
+  color: white;
+  background-color: black;
+  height: 30px;
+  width: 30%;
+}
